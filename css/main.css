@@ -1,0 +1,44 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+tbody {
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+th {
+  width: 5em;
+}
+
+td {
+  height: 10em;
+}
+
+.one {
+  color: #333;
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 8px;
+}
+
+.two {
+  color: #b92828;
+  background-color: #f2bcbc;
+  border: 1px solid #991919;
+  border-radius: 8px;
+}
+
+.green {
+  color: #6b7e54;
+  background-color: #d1e0bf;
+  border: 1px solid #51603f;
+  border-radius: 8px;
+}
+
+.blue {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 1px solid #51603f;
+  border-radius: 8px;
+}
